@@ -1,4 +1,4 @@
-# Elasticsearch v7 and above
+# Elasticsearch v7 and above 1
 
 Plugin to enable Elasticsearch server 7.x and above as a target in [Hackolade](https://hackolade.com) data modeling.  For Elasticsearch server 2.x thru 6.x, please user this other [plugin](https://github.com/hackolade/Elasticsearch)
 
